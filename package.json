@@ -1,0 +1,26 @@
+{
+  "name": "aactions-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+    "scripts": {
+      "test": "jest"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierrelstan/aactions-tuto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierrelstan/aactions-tuto/issues"
+  },
+  "homepage": "https://github.com/pierrelstan/aactions-tuto#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
